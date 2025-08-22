@@ -17,9 +17,6 @@ Nosso objetivo é simples: **colocar você no controle dos seus gastos mensais e
 - 🌍 **Multilíngue e multi-fuso**  
   Configure idioma e fuso horário de acordo com sua preferência.
 
-- 🔒 **Segurança em primeiro lugar**  
-  Login seguro com autenticação JWT, refresh tokens e criptografia.
-
 - 💡 **Planos Free e Premium**
   - **FREE**: até 4 assinaturas ativas
   - **PREMIUM**: assinaturas ilimitadas + recursos avançados (em breve)
