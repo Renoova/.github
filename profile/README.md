@@ -25,8 +25,6 @@ Nosso objetivo é simples: **colocar você no controle dos seus gastos mensais e
 
 ## Estrutura do Projeto
 
-O Renoova foi pensado como um ecossistema moderno, dividido em **front-end** e **back-end**:
-
 ### Front-end (APP)
 
 - Desenvolvido em **Angular 17**
