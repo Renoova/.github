@@ -1,4 +1,4 @@
-# 🚀 Renoova – Sua Central de Assinaturas
+# Renoova – Sua Central de Assinaturas
 
 O **Renoova** é uma plataforma criada para ajudar pessoas a **organizar, acompanhar e economizar** com suas assinaturas digitais – seja de **streaming, SaaS, games ou qualquer serviço recorrente**.
 
@@ -6,34 +6,33 @@ Nosso objetivo é simples: **colocar você no controle dos seus gastos mensais e
 
 ---
 
-## 🌟 O que o Renoova oferece
+## O que o Renoova oferece
 
-- 📊 **Gestão completa de assinaturas**  
+- **Gestão completa de assinaturas**  
   Cadastre e acompanhe todas as suas assinaturas em um só lugar.
 
-- ⏰ **Alertas inteligentes**  
+- **Alertas inteligentes**  
   Receba notificações por email ou push sobre renovações e vencimentos.
 
-- 🌍 **Multilíngue e multi-fuso**  
+- **Multilíngue e multi-fuso**  
   Configure idioma e fuso horário de acordo com sua preferência.
 
-- 💡 **Planos Free e Premium**
+- **Planos Free e Premium**
   - **FREE**: até 4 assinaturas ativas
   - **PREMIUM**: assinaturas ilimitadas + recursos avançados (em breve)
 
 ---
 
-## 🏗️ Estrutura do Projeto
+## Estrutura do Projeto
 
 O Renoova foi pensado como um ecossistema moderno, dividido em **front-end** e **back-end**:
 
-### 📱 Front-end
+### Front-end (APP)
 
 - Desenvolvido em **Angular 17**
 - Mobile-first com **Capacitor** (Android/iOS)
-- Interface simples, intuitiva e responsiva
 
-### ⚙️ Back-end
+### Back-end
 
 - Construído em **Java 21** com **Spring Boot 3.5**
 - Hospedado no **Railway**, organizado em:
@@ -57,13 +56,13 @@ O Renoova foi pensado como um ecossistema moderno, dividido em **front-end** e *
   - **Redis**  
     Cache e armazenamento temporário de tokens, sessões e filas rápidas
 
-### 🔗 Comunicação Externa
+### Comunicação Externa
 
 - Integração com serviços de email (Resend) e push notifications (Firebase)
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 - **Front-end**: Angular 17, Capacitor, TypeScript
 - **Back-end**: Java 21, Spring Boot 3.5
@@ -74,7 +73,7 @@ O Renoova foi pensado como um ecossistema moderno, dividido em **front-end** e *
 
 ---
 
-## 📈 O Futuro
+## O Futuro
 
 Estamos desenvolvendo o **Plano Premium**, que vai incluir:
 
