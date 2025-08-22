@@ -36,7 +36,7 @@ O Renoova foi pensado como um ecossistema moderno, dividido em **front-end** e *
 ### ⚙️ Back-end
 
 - Construído em **Java 21** com **Spring Boot 3.5**
-- Hospedado no **Railway**, organizado em microserviços:
+- Hospedado no **Railway**, organizado em:
 
   - **renoova-srv-param**  
     Serviço principal de API, responsável por:
@@ -85,7 +85,3 @@ Estamos desenvolvendo o **Plano Premium**, que vai incluir:
 - Categorização de assinaturas
 
 ---
-
-## 💡 Nossa Visão
-
-Queremos transformar o Renoova na **plataforma de referência em gestão de assinaturas no Brasil e no mundo**, ajudando usuários a economizar tempo e dinheiro.
