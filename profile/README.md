@@ -57,9 +57,8 @@ O Renoova foi pensado como um ecossistema moderno, dividido em **front-end** e *
   - **Redis**  
     Cache e armazenamento temporário de tokens, sessões e filas rápidas
 
-### 🔗 Comunicação
+### 🔗 Comunicação Externa
 
-- APIs REST seguras
 - Integração com serviços de email (Resend) e push notifications (Firebase)
 
 ---
