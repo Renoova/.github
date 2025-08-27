@@ -42,7 +42,7 @@ Nosso objetivo é simples: **colocar você no controle dos seus gastos mensais e
 ![Mockup de Dashboard](https://i.imgur.com/euE5SIR.png)
 
 ### Tela de Seleção de Planos
-![Mockup de planos](https://i.imgur.com/euE5SIR.png)
+![Mockup de planos](https://i.imgur.com/J3pp8B1.png)
 
 ---
 
