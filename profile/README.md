@@ -16,7 +16,15 @@ Nosso objetivo é simples: **colocar você no controle dos seus gastos mensais e
 
 - **Multilíngue e multi-fuso**  
   Configure idioma e fuso horário de acordo com sua preferência.
+  
+---
 
+## Mockups
+
+<p align="center">
+  <img src="https://i.imgur.com/euE5SIR.png" alt="Tela de Dashboard" width="45%" style="max-width: 360px; border-radius: 8px; margin: 0 6px;" />
+  <img src="https://i.imgur.com/J3pp8B1.png" alt="Tela de Seleção de Planos" width="45%" style="max-width: 360px; border-radius: 8px; margin: 0 6px;" />
+</p>
 ---
 
 ## Planos
@@ -33,16 +41,6 @@ Nosso objetivo é simples: **colocar você no controle dos seus gastos mensais e
 - **Notificações push e email personalizadas**
 - **Sugestão automática de assinaturas** a partir da fatura do cartão enviada pelo usuário
 - Experiência completa sem restrições
-
----
-
-## Mockups
-
-<p align="center">
-  <img src="https://i.imgur.com/euE5SIR.png" alt="Tela de Dashboard" width="45%" style="max-width: 360px; border-radius: 8px; margin: 0 6px;" />
-  <img src="https://i.imgur.com/J3pp8B1.png" alt="Tela de Seleção de Planos" width="45%" style="max-width: 360px; border-radius: 8px; margin: 0 6px;" />
-</p>
-
 
 ---
 
