@@ -17,9 +17,32 @@ Nosso objetivo é simples: **colocar você no controle dos seus gastos mensais e
 - **Multilíngue e multi-fuso**  
   Configure idioma e fuso horário de acordo com sua preferência.
 
-- **Planos Free e Premium**
-  - **FREE**: até 4 assinaturas ativas
-  - **PREMIUM**: assinaturas ilimitadas + recursos avançados (em breve)
+---
+
+## Planos
+
+### 🆓 Free
+- Até **4 assinaturas ativas** para controle
+- Notificações **pré-configuradas** por push e email sobre renovações e vencimentos
+- Acesso básico à gestão de assinaturas
+
+### ⭐ Premium (PRO)
+- **Assinaturas ilimitadas** para controle
+- **Categorização de assinaturas** (organize por Streaming, Games, SaaS, etc.)
+- **Relatórios personalizados** de gastos, filtrados e categorizados
+- **Notificações push e email personalizadas**
+- **Sugestão automática de assinaturas** a partir da fatura do cartão enviada pelo usuário
+- Experiência completa sem restrições
+
+---
+
+## Mockups
+
+### Tela de Seleção de Planos
+![Mockup de planos](https://i.imgur.com/pCCkniI.png)
+
+### Tela de Checkout PIX
+![Mockup de checkout](https://i.imgur.com/X6htpMZ.png)
 
 ---
 
@@ -37,14 +60,13 @@ Nosso objetivo é simples: **colocar você no controle dos seus gastos mensais e
 
   - **renoova-srv-param**  
     Serviço principal de API, responsável por:
-
     - Cadastro e autenticação de usuários
     - Gerenciamento de assinaturas
     - Preferências de notificação
+    - Integração com pagamentos (AbacatePay)
 
   - **renoova-srv-scheduler**  
     Responsável por:
-
     - Agendar e disparar notificações (email e push)
     - Processar assinaturas, renovando ou marcando como expiradas conforme a data cadastrada
 
@@ -68,16 +90,16 @@ Nosso objetivo é simples: **colocar você no controle dos seus gastos mensais e
 - **Cache e Sessões**: Redis
 - **Infraestrutura**: Railway (deploy automatizado via GitHub)
 - **Notificações**: Resend (email), Firebase (push)
+- **Pagamentos**: AbacatePay (PIX)
 
 ---
 
 ## O Futuro
 
-Estamos desenvolvendo o **Plano Premium**, que vai incluir:
-
-- Relatórios avançados de gastos e previsões
-- Integrações inteligentes para importação automática de assinaturas
-- Dashboard com insights financeiros
-- Categorização de assinaturas
+Estamos expandindo o **Plano Premium** com:
+- Mais automações para importação de faturas
+- Dashboard inteligente com insights de economia
+- Sugestões personalizadas para reduzir gastos
+- Melhorias contínuas na experiência de uso mobile
 
 ---
