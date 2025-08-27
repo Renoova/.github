@@ -25,7 +25,6 @@ Nosso objetivo é simples: **colocar você no controle dos seus gastos mensais e
   <img src="https://i.imgur.com/euE5SIR.png" alt="Tela de Dashboard" width="45%" style="max-width: 360px; border-radius: 8px; margin: 0 6px;" />
   <img src="https://i.imgur.com/J3pp8B1.png" alt="Tela de Seleção de Planos" width="45%" style="max-width: 360px; border-radius: 8px; margin: 0 6px;" />
 </p>
----
 
 ## Planos
 
