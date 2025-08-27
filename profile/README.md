@@ -38,11 +38,11 @@ Nosso objetivo é simples: **colocar você no controle dos seus gastos mensais e
 
 ## Mockups
 
-### Tela de Seleção de Planos
-![Mockup de planos](https://i.imgur.com/pCCkniI.png)
-
-### Tela de Checkout PIX
+### Tela de Dashboard
 ![Mockup de checkout](https://i.imgur.com/X6htpMZ.png)
+
+### Tela de Seleção de Planos
+![Mockup de planos](https://i.imgur.com/euE5SIR.png)
 
 ---
 
